@@ -1,3 +1,5 @@
+const forecastEl = document.getElementById("forecast")
+
 var requestOptions = {
     method: 'GET',
     redirect: 'follow'
@@ -10,6 +12,7 @@ var requestOptions = {
         for (let index = 0; index < data.list.length; index++) {
             const element = data.list[index];
             console.log(element.weather[0].description)
+            forecastEl.textContent = forecastEl.textContent + element.weather[0].description +  ", "
         }
     })
     .catch(error => console.log('error', error));
