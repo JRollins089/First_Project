@@ -1,8 +1,7 @@
 body {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1.3;
-  background-color: lightblue;
 }
 
 textarea{
@@ -64,7 +63,7 @@ textarea{
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: rgb(121, 212, 121);
+  background-color: #06AED5;
   color: white;
 }
 
