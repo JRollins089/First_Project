@@ -21,7 +21,7 @@ textarea{
   border-bottom: 10px solid black;
 }
 
-.description{
+.description, .desc { /* .desc added to match HTML */
   white-space: pre-wrap;
   text-align: left;
 }
