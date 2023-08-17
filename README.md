@@ -21,7 +21,7 @@ The Weather-Calender is a simple calendar application designed to help users sch
 ## Browser Compatibility
 The application works in Chrome, Firefox, Safari, and Edge.
 ## Sample Shot
-![image](https://github.com/JRollins089/Weather_calender/assets/137149899/a2a24692-61c1-49f8-a6ba-08d2b596050f)
+![image](https://github.com/JRollins089/Weather_calender/assets/137149899/6fd15067-31a5-428e-89fb-09ff7969ba78)
 ## Contributions
 Feel free to fork the repository and submit pull requests for any enhancements or fixes.
 ## License
