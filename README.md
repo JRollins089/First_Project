@@ -24,4 +24,4 @@ The application works in Chrome, Firefox, Safari, and Edge.
 Feel free to fork the repository and submit pull requests for any enhancements or fixes.
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
----
+---![image](https://github.com/JRollins089/Weather_calender/assets/137149899/a2a24692-61c1-49f8-a6ba-08d2b596050f)
